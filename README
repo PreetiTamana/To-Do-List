@@ -1,0 +1,33 @@
+📝 Cute To-Do List with Priority & Progress
+A visually pleasing, responsive, and functional to-do list built using HTML, CSS, and JavaScript. Add tasks with optional categories and priority levels. Track your progress live and enjoy the cute UI!
+
+✨ Features
+📥 Add tasks with optional category and priority (High, Medium, Low)
+
+✅ Mark tasks as completed
+
+🧹 Delete tasks easily
+
+📊 Live progress bar with percentage
+
+🌸 Aesthetic, mobile-responsive design
+
+🎨 Priority badges with soft colors and animations
+
+🎉 Empty state with a cheerful message
+
+🛠️ Built With
+HTML – for structure
+
+CSS – for styling and layout
+
+JavaScript – for dynamic interactions
+
+💡 Usage
+Type your task like this:
+Finish homework | School | High
+
+Hit Add and watch it appear with tags and priority!
+
+Click on a task to mark it done
+Click ❌ to delete it
