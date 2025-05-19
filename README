@@ -1,26 +1,22 @@
-📝 Cute To-Do List with Priority & Progress
-A visually pleasing, responsive, and functional to-do list built using HTML, CSS, and JavaScript. Add tasks with optional categories and priority levels. Track your progress live and enjoy the cute UI!
+# 📝To-Do List
+
+A cute and simple to-do list built using **HTML**, **CSS**, and **JavaScript**. Organize your tasks, track progress with a live bar, and enjoy a soft, clean UI.
+
+![Screenshot](./todo.png) 
+
 
 ✨ Features
 📥 Add tasks with optional category and priority (High, Medium, Low)
-
 ✅ Mark tasks as completed
-
 🧹 Delete tasks easily
-
 📊 Live progress bar with percentage
-
 🌸 Aesthetic, mobile-responsive design
-
 🎨 Priority badges with soft colors and animations
-
 🎉 Empty state with a cheerful message
 
 🛠️ Built With
 HTML – for structure
-
 CSS – for styling and layout
-
 JavaScript – for dynamic interactions
 
 💡 Usage
