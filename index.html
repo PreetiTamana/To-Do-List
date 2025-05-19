@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Cute To-Do App</title>
+  <link rel="stylesheet" href="style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <h1>My Tasks 📝</h1>
+        <div class="input-area">
+          <input type="text" id="taskInput" placeholder=" Enter task" />
+          <button class="add-btn" onclick="addTask()">Add</button>
+        </div>
+        <div class="progress-container">
+          <span class="progress-label">Progress:</span>
+          <span class="progress-label" id="progressPercent">0%</span>
+        </div>
+        <div class="progress-bar">
+          <div class="progress" id="progress"></div>
+        </div>
+        <ul id="taskList"></ul>
+        <div id="emptyState" class="empty-state">You're all caught up! 🎉</div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
